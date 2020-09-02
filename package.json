@@ -54,5 +54,16 @@
     "ts-node": "~7.0.1",
     "tslint": "~6.1.0",
     "typescript": "3.9.5"
-  }
+  },
+  "description": "This repository contains the code of the [Serverless Angular with Firebase & AngularFire Course](https://angular-university.io/course/firebase-course).",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aslamirfan/firebase-course.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/aslamirfan/firebase-course/issues"
+  },
+  "homepage": "https://github.com/aslamirfan/firebase-course#readme"
 }
